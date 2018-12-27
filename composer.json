@@ -5,7 +5,10 @@
     "require": {
         "php": "7.2"
     },
-    "license": "GPL",
+    "license": [
+        "MIT",
+        "(LGPL-2.1 or GPL-3.0+)"
+    ],
     "authors": [
         {
             "name": "Pramod Kumar",
