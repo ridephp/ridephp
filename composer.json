@@ -1,0 +1,16 @@
+{
+    "name": "pramod/phpride",
+    "description": "Contains common usage libraries for Php",
+    "type": "library",
+    "require": {
+        "php": "7.2"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Pramod",
+            "email": "prkrim@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
