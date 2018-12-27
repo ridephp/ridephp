@@ -3,7 +3,7 @@
     "description": "Contains common usage libraries for Php",
     "type": "library",
     "require": {
-        "php": ">=5.6"
+        "php": ">=7.0"
     },
     "license": [
         "MIT",
@@ -15,5 +15,8 @@
             "email": "prkrim@gmail.com"
         }
     ],
+	"autoload": {
+        "psr-4": {"PhpRide\\": "src/"}
+    }
     "minimum-stability": "stable"
 }
