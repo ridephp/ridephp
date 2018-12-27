@@ -1,5 +1,5 @@
 {
-    "name": "pramod/phpride",
+    "name": "phpride/phpride",
     "description": "Contains common usage libraries for Php",
     "type": "library",
     "require": {
@@ -8,7 +8,7 @@
     "license": "GPL",
     "authors": [
         {
-            "name": "Pramod",
+            "name": "Pramod Kumar",
             "email": "prkrim@gmail.com"
         }
     ],
